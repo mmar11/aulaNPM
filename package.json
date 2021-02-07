@@ -1,0 +1,24 @@
+{
+  "name": "dh-meumodulo-testeaula",
+  "version": "1.0.0",
+  "description": "modulo criado para teste na aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmar11/aulaNPM.git"
+  },
+  "keywords": [
+    "marcelo",
+    "m",
+    "modulo\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bmodulo"
+  ],
+  "author": "Marcelo Mariano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmar11/aulaNPM/issues"
+  },
+  "homepage": "https://github.com/mmar11/aulaNPM#readme"
+}
